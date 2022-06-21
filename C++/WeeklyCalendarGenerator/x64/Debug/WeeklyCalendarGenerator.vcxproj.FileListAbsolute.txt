@@ -1,0 +1,1 @@
+C:\dev\WeeklyCalendarGenerator\C++\WeeklyCalendarGenerator\x64\Debug\WeeklyCalendarGenerator.exe
